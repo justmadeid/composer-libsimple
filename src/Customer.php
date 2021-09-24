@@ -1,6 +1,6 @@
 <?php
 
-use Jstmade\belajar;
+namespace Jstmade\belajar;
 
 class Customer {
 
